@@ -33,6 +33,7 @@ REG NO : 212221230005
 ![p](1.png)
 ![p](2.png)
 ![p](3.png)
+![p](4.png)
 ### Result:
 Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
 
